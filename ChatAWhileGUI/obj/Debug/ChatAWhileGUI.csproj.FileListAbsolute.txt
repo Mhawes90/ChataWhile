@@ -1,0 +1,10 @@
+C:\Users\Chaos\source\repos\ChatAWhileGUI\ChatAWhileGUI\bin\Debug\ChatAWhileGUI.exe.config
+C:\Users\Chaos\source\repos\ChatAWhileGUI\ChatAWhileGUI\bin\Debug\ChatAWhileGUI.exe
+C:\Users\Chaos\source\repos\ChatAWhileGUI\ChatAWhileGUI\bin\Debug\ChatAWhileGUI.pdb
+C:\Users\Chaos\source\repos\ChatAWhileGUI\ChatAWhileGUI\obj\Debug\ChatAWhileGUI.csprojResolveAssemblyReference.cache
+C:\Users\Chaos\source\repos\ChatAWhileGUI\ChatAWhileGUI\obj\Debug\ChatAWhileGUI.Form1.resources
+C:\Users\Chaos\source\repos\ChatAWhileGUI\ChatAWhileGUI\obj\Debug\ChatAWhileGUI.Properties.Resources.resources
+C:\Users\Chaos\source\repos\ChatAWhileGUI\ChatAWhileGUI\obj\Debug\ChatAWhileGUI.csproj.GenerateResource.Cache
+C:\Users\Chaos\source\repos\ChatAWhileGUI\ChatAWhileGUI\obj\Debug\ChatAWhileGUI.csproj.CoreCompileInputs.cache
+C:\Users\Chaos\source\repos\ChatAWhileGUI\ChatAWhileGUI\obj\Debug\ChatAWhileGUI.exe
+C:\Users\Chaos\source\repos\ChatAWhileGUI\ChatAWhileGUI\obj\Debug\ChatAWhileGUI.pdb
